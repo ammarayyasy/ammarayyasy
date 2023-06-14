@@ -1,6 +1,6 @@
 ### Hi there its me, Muhammad Ammar Ayyasy👋
 You can just call me Ammar.
-```informatics engineering student, interested in becoming a Fullstack Developer. But still a newbie hehe```
+> informatics engineering student, interested in becoming a Fullstack Developer. But still a newbie hehe
 
 ## Project
 All my projects are uploaded here. Enjoyy 😊✨😊✨
